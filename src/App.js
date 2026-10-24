@@ -10,8 +10,11 @@ function App() {
       </header>
 
       <div className="content-body">
-        <p> 
+        <p class="image-submission-preview"> 
           Test
+        </p>
+        <p class="caption-placeholder">
+          Test2
         </p>
       </div>
     </div>
